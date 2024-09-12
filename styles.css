@@ -1,0 +1,73 @@
+/* styles.css */
+
+h1 {
+    text-shadow: 2px 2px pink;
+}
+
+h2 {
+    text-shadow: 1px 1px lightsalmon;
+}
+
+body {
+    font-family: Helvetica, sans-serif;
+    font-size: 16px;
+    margin: 10px;
+    padding: 10px;
+}
+
+/* style type for unordered list */
+@counter-style custom-unordered {
+    system: cyclic;
+    symbols:  '❓' '✌️' '❤️' ;
+    suffix: ' ';
+}
+
+li {
+    list-style: custom-unordered;
+}
+
+a {
+    font-family: Arial, sans-serif; /* Change the font */
+    font-size: 16px; /* Adjust the font size if needed */
+    font-weight: bold; /* Make the font bold, if desired */
+}
+a:link {
+    color: lightskyblue;
+}
+  
+a:visited {
+    color: purple;
+}
+
+a:hover {
+    text-decoration: none;
+  }
+
+code {
+    font-size: 15px;
+    background-color: #F0EDED;
+    border-width: 1px;
+    border-radius: 5px;
+}
+
+pre code {
+    all: unset;
+}
+
+pre  {
+    font-size: 15px;
+    background-color: lightpink;
+    border-style: solid;
+    border-color: gray;
+    border-width: 1px;
+    border-radius: 5px;
+    white-space: pre-wrap; /* Preserve spaces and line breaks */
+    display: block; /* Ensure each block stays on its own line */
+    width: fit-content; /* Adjust width to fit the text content */
+    max-width: 100%; /* Prevent overflow beyond the container */
+    /*overflow-x: auto; /* Add a scroll bar if the text is too long */
+}
+
+
+
+  

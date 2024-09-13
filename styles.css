@@ -32,7 +32,7 @@ body {
 /* style type for unordered list */
 @counter-style custom-unordered {
     system: finite;
-    symbols: '🏠' '☝️' '✌️' ;
+    symbols: '🏠' '2️⃣' '3️⃣' ;
     suffix: ' ';
 }
 

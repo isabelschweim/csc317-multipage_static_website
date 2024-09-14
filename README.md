@@ -35,6 +35,8 @@ https://isabelschweim.github.io/csc317-multipage_static_website/
 - https://web.dev/articles/building/an-adaptive-favicon#:~:text=This%20means%20if%20an%20SVG,light%20and%20dark%20user%20preferences.
 - https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Getting_Started
 - https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web
+- https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Shapes
+- https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Paths
 
 
 - https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model

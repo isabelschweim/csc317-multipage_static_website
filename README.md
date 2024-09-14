@@ -18,6 +18,9 @@ https://github.com/isabelschweim/csc317-multipage_static_website
 ### GitHub Pages deployed website: 
 https://isabelschweim.github.io/csc317-multipage_static_website/
 
+## Important things to notice!
+The favicon in the page tab doesn't show on Safari but it does on Chrome!
+
 ## References
 
 - https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics

@@ -1,7 +1,7 @@
 /* styles.css */
 
 html {
-  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-family: "Inter", Helvetica, Arial, sans-serif;
 }
 
 h1 {
@@ -38,7 +38,6 @@ body {
 
 .menue li {
     list-style: custom-unordered;
-    transition: all 0.3s ease;
 }
 
 a {
@@ -46,6 +45,7 @@ a {
     font-size: 16px; /* Adjust the font size if needed */
     font-weight: bold; /* Make the font bold, if desired */
 }
+
 a:link {
     color: lightskyblue;
 }
@@ -56,11 +56,13 @@ a:visited {
 
 a:hover {
     text-decoration: none;
+    background-color: beige;
+    transition: all 0.5s ease;
   }
 
 code {
     font-size: 15px;
-    background-color: #F0EDED;
+    background-color: rgb(234, 231, 231);
     border-width: 1px;
     border-radius: 5px;
 }
@@ -91,13 +93,13 @@ caption {
 
 table {
     border-collapse: collapse;
-    border: 2px solid rgb(200,200,200);
+    border: 2px solid rgb(114, 110, 110);
     letter-spacing: 1px;
     font-size: 0.8rem;
   }
   
   td, th {
-    border: 1px solid rgb(244, 54, 114);
+    border: 1px solid rgb(245, 89, 138);
     padding: 10px 20px;
   }
   

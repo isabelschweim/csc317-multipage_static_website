@@ -1,6 +1,6 @@
 <!-- favicon.svg -->
-<svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <rect width="24" height="24" fill="purple"/>
-  <circle cx="12" cy="12" r="10" fill="magenta"/>
-  <rect y="10" width="24" height="4" fill="yellow"/>
+<svg width="32" height="32" xmlns="http://www.w3.org/2000/svg">
+  <rect width="32" height="32" fill="purple"/>
+  <circle cx="16" cy="16" r="12" fill="magenta"/>
+  <rect y="12" width="32" height="8" fill="yellow"/>
 </svg>

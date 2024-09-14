@@ -22,7 +22,7 @@ https://isabelschweim.github.io/csc317-multipage_static_website/
 The favicon in the page tab doesn't show on Safari but it does on Chrome!
 
 ## Bonus Features:
-- <b>CSS</b> Styling through an external style.css file
+- <b>CSS Styling</b> through an external style.css file
 - Adding of <b>Google Font Inter</b> to entire website
 - Provided a <b>PNG</b> alternative for the <b>SVG favicon</b>
 - Added a <b>footer</b> element to every page

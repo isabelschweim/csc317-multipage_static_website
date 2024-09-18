@@ -3,11 +3,6 @@
     
     <path  fill="none" stroke="lightgrey" stroke-width="3" 
         d="M 10 10 H 280 V 140 H 10 L 10 10"/>
-
-    <circle r="5" fill="red">
-        <animateMotion dur="10s" repeatCount="indefinite" path="M 10 10 H 140 V 140 H 10 L 10 10"/>
-    </circle>
-    
     <path d="M 10 115
            L 110 215
            A 30 50 0 0 1 162.55 162.45
@@ -17,19 +12,22 @@
     <path d="M 10 80 C 40 10, 65 10, 95 80 S 150 150, 180 80" stroke="black" fill="transparent"/>
     <path fill="none" stroke="lightgrey" d="M20,50 C20,-50 180,150 180,50 C180-50 20,150 20,50 z" />
     <path d="M 10 80 Q 52.5 10, 95 80 T 180 80" stroke="black" fill="transparent"/>
-    <circle r="5" fill="red">
+    <circle r="5" fill="orange">
+        <animateMotion dur="10s" repeatCount="indefinite" path="M 10 10 H 140 V 140 H 10 L 10 10"/>
+    </circle>
+    <circle r="5" fill="magenta">
       <animateMotion dur="20s" repeatCount="indefinite" path="M20,50 C20,-50 180,150 180,50 C180-50 20,150 20,50 z"/>
     </circle>
-    <circle r="5" fill="red">
+    <circle r="5" fill="pink">
       <animateMotion dur="20s" repeatCount="indefinite" path="M 280 10 H 10 V 140 L 280 10"/>
     </circle>
-    <circle r="5" fill="red">
+    <circle r="5" fill="purple">
       <animateMotion dur="5s" repeatCount="indefinite" path="M 100 10 H 140 V 140 H 10 L 100 10"/>
     </circle>
     Points
-    <circle cx="10" cy="10" r="2" fill="red"/>
-    <circle cx="90" cy="90" r="2" fill="red"/>
-    <circle cx="90" cy="10" r="2" fill="red"/>
-    <circle cx="10" cy="90" r="2" fill="red"/>
+    <circle cx="10" cy="10" r="3" fill="green"/>
+    <circle cx="10" cy="140" r="3" fill="green"/>
+    <circle cx="280" cy="10" r="3" fill="green"/>
+    <circle cx="280" cy="140" r="3" fill="green"/>
 
 </svg>

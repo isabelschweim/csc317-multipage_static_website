@@ -18,9 +18,6 @@ https://github.com/isabelschweim/csc317-multipage_static_website
 ### GitHub Pages deployed website: 
 https://isabelschweim.github.io/csc317-multipage_static_website/
 
-## Important things to notice!
-The favicon in the page tab doesn't show on Safari but it does on Chrome!
-
 ## Bonus Features:
 - <b>CSS Styling</b> through an external style.css file
 - Adding of <b>Google Font Inter</b> to entire website
